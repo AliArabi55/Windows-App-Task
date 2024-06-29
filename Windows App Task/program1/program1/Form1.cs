@@ -27,7 +27,10 @@ namespace program1
                 txtnumber.Focus();
                 return;
             }
-            // Further conditions will be added separately
+            if (x % 3 == 0)
+            {
+                lst3.Items.Add(x);
+            }
         }
     }
 }
