@@ -31,6 +31,10 @@ namespace program1
             {
                 lst3.Items.Add(x);
             }
+            if (x % 5 == 0)
+            {
+                lst5.Items.Add(x);
+            }
         }
     }
 }
