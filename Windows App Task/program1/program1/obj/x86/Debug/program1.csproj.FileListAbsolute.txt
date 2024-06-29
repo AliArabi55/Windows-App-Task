@@ -1,0 +1,17 @@
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\bin\Debug\program1.exe
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\bin\Debug\program1.pdb
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\obj\x86\Debug\program1.Form1.resources
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\obj\x86\Debug\program1.Properties.Resources.resources
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\obj\x86\Debug\program1.csproj.GenerateResource.Cache
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\obj\x86\Debug\program1.exe
+c:\Users\COMPUMART\Documents\Visual Studio 2010\Projects\program1\program1\obj\x86\Debug\program1.pdb
+C:\Users\aliar\Downloads\Projects\program1\program1\bin\Debug\program1.exe.config
+C:\Users\aliar\Downloads\Projects\program1\program1\bin\Debug\program1.exe
+C:\Users\aliar\Downloads\Projects\program1\program1\bin\Debug\program1.pdb
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.csproj.AssemblyReference.cache
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.Form1.resources
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.Properties.Resources.resources
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.csproj.GenerateResource.cache
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.csproj.CoreCompileInputs.cache
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.exe
+C:\Users\aliar\Downloads\Projects\program1\program1\obj\x86\Debug\program1.pdb
