@@ -46,5 +46,10 @@ namespace program1
             txtnumber.Clear();
             txtnumber.Focus();
         }
+
+        private void lstall_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
