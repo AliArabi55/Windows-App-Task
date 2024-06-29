@@ -39,6 +39,10 @@ namespace program1
             {
                 lst7.Items.Add(x);
             }
+            if (x % 3 != 0 && x % 5 != 0 && x % 7 != 0)
+            {
+                lstall.Items.Add(x);
+            }
         }
     }
 }
