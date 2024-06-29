@@ -43,6 +43,8 @@ namespace program1
             {
                 lstall.Items.Add(x);
             }
+            txtnumber.Clear();
+            txtnumber.Focus();
         }
     }
 }
