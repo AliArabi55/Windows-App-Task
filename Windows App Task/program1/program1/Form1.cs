@@ -15,5 +15,19 @@ namespace program1
         {
             InitializeComponent();
         }
+
+        private void btnEnter_Click(object sender, EventArgs e)
+        {
+            int x;
+            bool flag = int.TryParse(txtnumber.Text, out x);
+            if (flag == false)
+            {
+                MessageBox.Show("Enter Integer number :)");
+                txtnumber.Clear();
+                txtnumber.Focus();
+                return;
+            }
+            // Further conditions will be added separately
+        }
     }
 }

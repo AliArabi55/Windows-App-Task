@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program1\\program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|c:\\users\\aliar\\onedrive\\documents\\github\\windows-app-task\\windows app task\\program1\\program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|solutionrelative:program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|c:\\users\\aliar\\onedrive\\documents\\github\\windows-app-task\\windows app task\\program1\\program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program1\\program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{75AD89CE-0E75-4A8F-A4B9-892EC6C236CC}|program1\\program1.csproj|solutionrelative:program1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -53,8 +53,7 @@
               "RelativeToolTip": "program1\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:50:24.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T14:50:24.394Z"
             },
             {
               "$type": "Document",
@@ -64,7 +63,7 @@
               "RelativeDocumentMoniker": "program1\\Form1.cs",
               "ToolTip": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program1\\program1\\Form1.cs",
               "RelativeToolTip": "program1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T14:47:13.772Z",
               "EditorCaption": ""
@@ -78,8 +77,7 @@
               "ToolTip": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program1\\program1\\Form1.cs [Design]",
               "RelativeToolTip": "program1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:47:06.955Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-29T14:47:06.955Z"
             },
             {
               "$type": "Document",
