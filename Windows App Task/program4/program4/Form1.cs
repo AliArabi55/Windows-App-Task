@@ -62,5 +62,10 @@ namespace program4
             y--;
             txtnumber.Text = y.ToString();
         }
+
+        private void txtnumber_TextChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
