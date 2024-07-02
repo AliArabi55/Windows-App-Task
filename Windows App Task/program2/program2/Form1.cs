@@ -11,6 +11,8 @@ namespace program2
 {
     public partial class Form1 : Form
     {
+        int x = 0;
+
         public Form1()
         {
             InitializeComponent();
