@@ -57,5 +57,10 @@ namespace program3
         {
             // Empty event handler
         }
+
+        private void lstfloat_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
