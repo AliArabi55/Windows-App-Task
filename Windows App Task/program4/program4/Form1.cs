@@ -19,5 +19,10 @@ namespace program4
             lstnumber.Items.Add(" i\t\t i*2\t\t i*i");
             lstnumber.Items.Add("--------------------------------------------------------------");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
