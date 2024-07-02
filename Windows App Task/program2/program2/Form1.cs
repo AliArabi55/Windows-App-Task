@@ -33,5 +33,10 @@ namespace program2
                 lbladdandsub.Text = (--x).ToString();
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
