@@ -37,5 +37,10 @@ namespace program3
             txtnumber.Clear();
             txtnumber.Focus();
         }
+
+        private void lststring_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
