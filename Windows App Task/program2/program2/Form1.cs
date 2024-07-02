@@ -25,5 +25,13 @@ namespace program2
                 lbladdandsub.Text = (++x).ToString();
             }
         }
+
+        private void btnsub_Click(object sender, EventArgs e)
+        {
+            if (x > -10)
+            {
+                lbladdandsub.Text = (--x).ToString();
+            }
+        }
     }
 }
