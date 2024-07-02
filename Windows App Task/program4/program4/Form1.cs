@@ -55,5 +55,12 @@ namespace program4
             y++;
             txtnumber.Text = y.ToString();
         }
+
+        private void btnsub_Click(object sender, EventArgs e)
+        {
+            y = int.Parse(txtnumber.Text);
+            y--;
+            txtnumber.Text = y.ToString();
+        }
     }
 }
