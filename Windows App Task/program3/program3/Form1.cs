@@ -47,5 +47,10 @@ namespace program3
         {
             // Empty event handler
         }
+
+        private void txtnumber_TextChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
