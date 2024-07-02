@@ -67,5 +67,10 @@ namespace program4
         {
             // Empty event handler
         }
+
+        private void lstnumber_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
