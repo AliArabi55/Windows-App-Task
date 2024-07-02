@@ -42,5 +42,10 @@ namespace program3
         {
             // Empty event handler
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            // Empty event handler
+        }
     }
 }
