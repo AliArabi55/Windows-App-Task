@@ -48,5 +48,12 @@ namespace program4
             lstnumber.Items.Add("--------------------------------------------------------------");
             lstnumber.Items.Add(sum1 + "\t\t " + sum2 + "\t\t" + sum3);
         }
+
+        private void btnplus_Click(object sender, EventArgs e)
+        {
+            y = int.Parse(txtnumber.Text);
+            y++;
+            txtnumber.Text = y.ToString();
+        }
     }
 }
