@@ -17,5 +17,13 @@ namespace program2
         {
             InitializeComponent();
         }
+
+        private void btnadd_Click(object sender, EventArgs e)
+        {
+            if (x < 10)
+            {
+                lbladdandsub.Text = (++x).ToString();
+            }
+        }
     }
 }
