@@ -20,5 +20,10 @@ namespace program_5
         {
             // Empty event handler
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
