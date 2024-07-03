@@ -1,0 +1,7 @@
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\bin\Debug\program 5.exe
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\bin\Debug\program 5.pdb
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\obj\x86\Debug\program_5.Form1.resources
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\obj\x86\Debug\program_5.Properties.Resources.resources
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\obj\x86\Debug\program 5.csproj.GenerateResource.Cache
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\obj\x86\Debug\program 5.exe
+c:\users\compumart\documents\visual studio 2010\Projects\program 5\program 5\obj\x86\Debug\program 5.pdb
