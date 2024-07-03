@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aliar\\Downloads\\program 5\\",
+  "WorkspaceRootPath": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|c:\\users\\aliar\\downloads\\program 5\\program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|c:\\users\\aliar\\onedrive\\documents\\github\\windows-app-task\\windows app task\\program 5\\program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|solutionrelative:program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|c:\\users\\aliar\\downloads\\program 5\\program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program 5\\program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{38445FC2-12D9-4C5F-9116-89298AB20803}|program 5\\program 5.csproj|solutionrelative:program 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aliar\\Downloads\\program 5\\program 5\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program 5\\program 5\\Form1.cs",
               "RelativeDocumentMoniker": "program 5\\Form1.cs",
-              "ToolTip": "C:\\Users\\aliar\\Downloads\\program 5\\program 5\\Form1.cs",
+              "ToolTip": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program 5\\program 5\\Form1.cs",
               "RelativeToolTip": "program 5\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T20:20:10.862Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aliar\\Downloads\\program 5\\program 5\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aliar\\OneDrive\\Documents\\GitHub\\Windows-App-Task\\Windows App Task\\program 5\\program 5\\Form1.cs",
               "RelativeDocumentMoniker": "program 5\\Form1.cs",
               "ToolTip": "C:\\Users\\aliar\\Downloads\\program 5\\program 5\\Form1.cs [Design]",
-              "RelativeToolTip": "program 5\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\program 5\\program 5\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:20:03.888Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-03T20:20:03.888Z"
             }
           ]
         }
