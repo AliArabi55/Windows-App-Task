@@ -71,5 +71,9 @@ namespace program_6
         private void txtBetween_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void txtRNumber_TextChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
