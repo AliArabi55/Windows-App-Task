@@ -27,5 +27,10 @@ namespace program_6
         {
             Close();
         }
+
+        private void btnGenerate_Click(object sender, EventArgs e)
+        {
+            lstgenerate.Items.Clear();
+        }
     }
 }
