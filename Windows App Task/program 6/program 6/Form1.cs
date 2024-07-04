@@ -46,5 +46,10 @@ namespace program_6
                 lstgenerate.Items.Add(arr[i].ToString());
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+        }
+
     }
 }
