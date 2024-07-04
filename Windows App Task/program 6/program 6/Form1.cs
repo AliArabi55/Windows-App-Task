@@ -35,6 +35,9 @@ namespace program_6
             int number = Int32.Parse(txtRNumber.Text);
             int bet = int.Parse(txtBetween.Text);
             int a = int.Parse(txtAnd.Text);
+
+            int[] arr = new int[number];
+            Random ra = new Random();
         }
     }
 }
