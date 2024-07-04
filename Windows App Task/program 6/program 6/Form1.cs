@@ -59,7 +59,6 @@ namespace program_6
         {
         }
 
-
         private void txtAddArray_TextChanged(object sender, EventArgs e)
         {
         }
@@ -73,6 +72,10 @@ namespace program_6
         }
 
         private void txtRNumber_TextChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void lstgenerate_SelectedIndexChanged(object sender, EventArgs e)
         {
         }
     }
