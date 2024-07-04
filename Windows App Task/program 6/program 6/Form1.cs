@@ -31,6 +31,10 @@ namespace program_6
         private void btnGenerate_Click(object sender, EventArgs e)
         {
             lstgenerate.Items.Clear();
+
+            int number = Int32.Parse(txtRNumber.Text);
+            int bet = int.Parse(txtBetween.Text);
+            int a = int.Parse(txtAnd.Text);
         }
     }
 }
