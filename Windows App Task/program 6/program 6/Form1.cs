@@ -22,5 +22,10 @@ namespace program_6
         {
             txtAddArray.Text = addarray.ToString();
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
