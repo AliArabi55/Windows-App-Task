@@ -58,5 +58,10 @@ namespace program_6
         private void label3_Click(object sender, EventArgs e)
         {
         }
+
+
+        private void txtAddArray_TextChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
