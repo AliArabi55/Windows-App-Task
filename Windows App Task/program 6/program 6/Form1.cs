@@ -17,5 +17,10 @@ namespace program_6
         {
             InitializeComponent();
         }
+
+        private void btnAddArray_Click(object sender, EventArgs e)
+        {
+            txtAddArray.Text = addarray.ToString();
+        }
     }
 }
