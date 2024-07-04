@@ -43,6 +43,7 @@ namespace program_6
             {
                 arr[i] = ra.Next(bet, a);
                 addarray += arr[i];
+                lstgenerate.Items.Add(arr[i].ToString());
             }
         }
     }
