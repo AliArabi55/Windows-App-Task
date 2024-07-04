@@ -1,0 +1,8 @@
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\bin\Debug\program 6.exe
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\bin\Debug\program 6.pdb
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program_6.Form1.resources
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program_6.Properties.Resources.resources
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program 6.csproj.GenerateResource.Cache
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program 6.exe
+c:\users\compumart\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program 6.pdb
+C:\Users\COMPUMART\documents\visual studio 2010\Projects\program 6\program 6\obj\x86\Debug\program 6.csprojResolveAssemblyReference.cache
