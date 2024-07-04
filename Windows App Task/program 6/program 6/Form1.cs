@@ -38,6 +38,12 @@ namespace program_6
 
             int[] arr = new int[number];
             Random ra = new Random();
+
+            for (int i = 0; i < number; i++)
+            {
+                arr[i] = ra.Next(bet, a);
+                addarray += arr[i];
+            }
         }
     }
 }
