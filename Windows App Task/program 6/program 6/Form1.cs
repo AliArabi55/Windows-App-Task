@@ -67,5 +67,9 @@ namespace program_6
         private void txtAnd_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void txtBetween_TextChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
