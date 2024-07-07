@@ -11,5 +11,20 @@ namespace program_7
 {
     public partial class Form1 : Form
     {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnPopulate_Click(object sender, EventArgs e)
+        {
+            lstSet1.Items.Clear();
+            lstSet2.Items.Clear();
+
+            int[] set1 = new int[15];
+            int[] set2 = new int[15];
+        }
     }
 }
+
+
