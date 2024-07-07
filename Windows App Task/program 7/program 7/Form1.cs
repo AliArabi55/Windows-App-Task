@@ -20,7 +20,11 @@ namespace program_7
         {
             lstSet1.Items.Clear();
             lstSet2.Items.Clear();
+
+            int[] set1 = new int[15];
+            int[] set2 = new int[15];
         }
     }
 }
+
 
