@@ -35,7 +35,17 @@ namespace program_7
 
             int count = 0;
             string mat = "";
+            for (int f = 0; f < 15; f++)
+            {
+                for (int k = 0; k < 15; k++)
+                {
+                    if (set1[f] == set2[k])
+                    {
+                        count++;
+                        mat += set1[f].ToString() + ", ";
+                    }
+                }
+            }
         }
     }
 }
-
