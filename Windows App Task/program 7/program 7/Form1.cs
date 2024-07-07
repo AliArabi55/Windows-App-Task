@@ -49,5 +49,9 @@ namespace program_7
             txtNum.Text = count.ToString();
             txtMatces.Text = mat;
         }
+
+        private void lstSet1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
