@@ -81,5 +81,9 @@ namespace program_7
         private void txtMatces_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
     }
 }
