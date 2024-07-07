@@ -32,9 +32,10 @@ namespace program_7
                 lstSet1.Items.Add(set1[i].ToString());
                 lstSet2.Items.Add(set2[i].ToString());
             }
+
+            int count = 0;
+            string mat = "";
         }
     }
 }
-
-
 
