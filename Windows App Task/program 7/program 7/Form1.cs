@@ -25,7 +25,13 @@ namespace program_7
             int[] set2 = new int[15];
 
             Random rn = new Random();
+            for (int i = 0; i < 15; i++)
+            {
+                set1[i] = rn.Next(1, 100);
+                set2[i] = rn.Next(1, 100);
+            }
         }
     }
 }
+
 
