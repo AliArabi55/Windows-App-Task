@@ -23,8 +23,9 @@ namespace program_7
 
             int[] set1 = new int[15];
             int[] set2 = new int[15];
+
+            Random rn = new Random();
         }
     }
 }
-
 
