@@ -53,5 +53,9 @@ namespace program_7
         private void lstSet1_SelectedIndexChanged(object sender, EventArgs e)
         {
         }
+
+        private void lstSet2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
