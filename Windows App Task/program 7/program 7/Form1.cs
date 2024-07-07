@@ -29,9 +29,12 @@ namespace program_7
             {
                 set1[i] = rn.Next(1, 100);
                 set2[i] = rn.Next(1, 100);
+                lstSet1.Items.Add(set1[i].ToString());
+                lstSet2.Items.Add(set2[i].ToString());
             }
         }
     }
 }
+
 
 
