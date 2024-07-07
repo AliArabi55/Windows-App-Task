@@ -46,6 +46,8 @@ namespace program_7
                     }
                 }
             }
+            txtNum.Text = count.ToString();
+            txtMatces.Text = mat;
         }
     }
 }
