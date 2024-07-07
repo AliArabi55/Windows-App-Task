@@ -18,6 +18,9 @@ namespace program_7
 
         private void btnPopulate_Click(object sender, EventArgs e)
         {
+            lstSet1.Items.Clear();
+            lstSet2.Items.Clear();
         }
     }
 }
+
