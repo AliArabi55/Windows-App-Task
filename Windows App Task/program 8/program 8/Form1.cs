@@ -11,5 +11,6 @@ namespace program_8
 {
     public partial class Form1 : Form
     {
+        int[] arr = new int[11];
     }
 }
