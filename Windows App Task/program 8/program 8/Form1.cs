@@ -26,5 +26,32 @@ namespace program_8
         {
             Close();
         }
+
+        private void btnGenerate_Click(object sender, EventArgs e)
+        {
+            lstArray.Items.Clear();
+
+            Random rn = new Random();
+
+            for (int i = 0; i < 11; i++)
+            {
+                arr[i] = rn.Next(1, 100);
+            }
+
+            int temp;
+            for (int i = 0; i < 11; i++)
+            {
+                for (int j = i + 1; j < 11; j++)
+                {
+                    if (arr[i] > arr[j])
+                    {
+                        temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+                lstArray.Items.Add(arr[i].ToString());
+            }
+        }
     }
 }
