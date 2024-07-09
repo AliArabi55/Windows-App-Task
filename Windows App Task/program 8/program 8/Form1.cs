@@ -53,5 +53,25 @@ namespace program_8
                 lstArray.Items.Add(arr[i].ToString());
             }
         }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            int num = int.Parse(txtX.Text);
+            bool flag = false;
+            string x = "";
+            for (int i = 0; i < 11; i++)
+            {
+                if (arr[i] == num)
+                {
+                    flag = true;
+                    x += (i + 1).ToString() + ", ";
+                    txtLocation.Text = x;
+                }
+            }
+            if (!flag)
+            {
+                txtLocation.Text = "Not";
+            }
+        }
     }
 }
