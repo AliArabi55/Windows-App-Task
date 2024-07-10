@@ -9,4 +9,7 @@ using System.Windows.Forms;
 
 namespace program_9
 {
+    public partial class Form1 : Form
+    {
+    }
 }
