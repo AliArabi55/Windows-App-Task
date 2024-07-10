@@ -21,5 +21,16 @@ namespace program_9
         private void Form1_Load(object sender, EventArgs e)
         {
         }
+
+        private void btnPopulate_Click(object sender, EventArgs e)
+        {
+            lstArray.Items.Clear();
+            Random rn = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                arr[i] = rn.Next(1, 50);
+                lstArray.Items.Add(arr[i].ToString());
+            }
+        }
     }
 }
